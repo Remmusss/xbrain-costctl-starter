@@ -299,11 +299,7 @@ MIT — see `LICENSE`.
 
 ## Team
 
-> Replace before submission:
-
-- <name 1>
-- <name 2>
-- <name 3>
+- Tran Dinh Minh Quan - Group 1
 
 ---
 
